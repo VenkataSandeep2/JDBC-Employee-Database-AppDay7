@@ -1,3 +1,5 @@
+// java -cp ".;mysql-connector-j-8.0.33.jar" Day7.java
+// java -cp ".;mysql-connector-j-8.0.33.jar" Day7
 import java.sql.*;
 import java.util.Scanner;
 
@@ -147,3 +149,4 @@ public class Day7
         }
     }
 }
+
